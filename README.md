@@ -85,6 +85,24 @@ The seed that produced this run lives at both
 [`seed.txt`](seed.txt) (repo root, as a template) and
 [`examples/ashen-crown/seed.txt`](examples/ashen-crown/seed.txt).
 
+### AI-detection results — Chapter 1 (`ashen-crown`)
+
+The output of this pipeline is built specifically to dodge the structural
+and lexical tells that fire AI detectors. The first drafted chapter of
+the worked example was run through two public detectors:
+
+| Detector | Sample | Result |
+|---|---|---|
+| Yandex Neurodetector ([link](https://ya.ru/ai/check)) | 2,154 words / 11,133 chars / 10 segments | **2.86%** AI-generated probability |
+| GPTZero | _TBD — fill in_ | _TBD_ |
+
+The framework references in [`framework/ANTI-SLOP.md`](framework/ANTI-SLOP.md)
+and [`framework/ANTI-PATTERNS.md`](framework/ANTI-PATTERNS.md), combined
+with the regex `slop_scan.py` pass and the reader-panel evaluation, are
+what drive these numbers down. Detector scores are not a quality
+guarantee, but they're a useful sanity check that the prose has avoided
+the obvious AI fingerprints.
+
 ## Layout
 
 ```text
