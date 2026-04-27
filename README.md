@@ -91,10 +91,10 @@ The output of this pipeline is built specifically to dodge the structural
 and lexical tells that fire AI detectors. The first drafted chapter of
 the worked example was run through two public detectors:
 
-| Detector | Sample | Result |
-|---|---|---|
-| Yandex Neurodetector ([link](https://ya.ru/ai/check)) | 2,154 words / 11,133 chars / 10 segments | **2.86%** AI-generated probability |
-| GPTZero (Model 4.4b) | 2,154 words / first 10,000 chars scanned | **AI 0% · Mixed 0% · Human 100%** — "highly confident this text is entirely human" |
+| Detector | Sample | Result | Screenshot |
+|---|---|---|---|
+| [Yandex Neurodetector](https://yandex.ru/lab/neurodetector) | 2,154 words / 11,133 chars / 10 segments | **2.86%** AI-generated probability | <a href="docs/images/detector-yandex-ch01.png"><img src="docs/images/detector-yandex-ch01.png" width="180" alt="Yandex Neurodetector result: 2.86%"></a> |
+| [GPTZero](https://gptzero.me/) (Model 4.4b) | 2,154 words / first 10,000 chars scanned | **AI 0% · Mixed 0% · Human 100%** — "highly confident this text is entirely human" | <a href="docs/images/detector-gptzero-ch01.png"><img src="docs/images/detector-gptzero-ch01.png" width="180" alt="GPTZero result: Human 100%"></a> |
 
 The framework references in [`framework/ANTI-SLOP.md`](framework/ANTI-SLOP.md)
 and [`framework/ANTI-PATTERNS.md`](framework/ANTI-PATTERNS.md), combined
