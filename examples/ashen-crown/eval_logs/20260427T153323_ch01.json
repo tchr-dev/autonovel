@@ -1,0 +1,91 @@
+{
+  "voice_adherence": {
+    "score": 8,
+    "weakest_moment": "The hammer-hand salute exchange is correctly used but described in two short clean sentences ('Brann raised the hammer-hand. Rowan raised his back.') that read as slightly tidy. The motion would land harder if blurred into the action — e.g., 'Brann's hammer-hand went up. Rowan's came up before he thought about it.'",
+    "fix": "Optional polish — not a Phase 2 blocker. Defer to Phase 3 line edits.",
+    "note": "v2 removed the omniscient slip at chapter end. Single POV (Rowan) holds throughout. One old-tongue paragraph triggered correctly on crown contact. Anglo-Saxon vocabulary throughout default mode. Sentence-length CV 0.957. Tone is the stoic-grief fingerprint specified in voice.md."
+  },
+  "beat_coverage": {
+    "score": 8,
+    "weakest_moment": "All beats from the outline hit. Beat 6 ('end on him not putting the crown in the barrow with the rest of the scrap. He puts it in his coat. He does not know why.') is dramatised over a full half-page rather than landed in two sentences — slight expansion, not a flaw, but it pushes the chapter weight onto the dig.",
+    "fix": "None — the expansion serves the chapter's emotional center.",
+    "note": "v2 removed the Ch 2 sword-giving beat (correctly). The sword stays on the peg above the second anvil. Ch 2 can deliver it as outlined. Brann's 'you'll know what you're for' line is now actual dialogue, not a wished-but-unsaid coda. F02 plants properly."
+  },
+  "character_voice": {
+    "score": 7,
+    "weakest_moment": "Rowan still speaks little — 'Aye.' (×2) and 'The king is —?' and 'Master —' (one absorbed into Brann's response). For 2,154 words this is sparse, even given his trails-off profile.",
+    "fix": "Optional: a half-line during the dig — 'Three —' as he counts the missing points, trails off — would give him one more spoken beat in his POV chapter without breaking the pattern.",
+    "note": "Brann is distinct from the reeve in the lines they each speak. No dialogue formula slop ('not just X, but Y' / 'there's a difference'). The half-question 'The king is —?' demonstrates Rowan's tic on the page."
+  },
+  "plants_seeded": {
+    "score": 8,
+    "weakest_moment": "The bell-and-black-glass dream lands in three sentences at the chapter end. It is direct. A reader on a re-read will spot it as foreshadowing easily; on a first read it reads as a strange dream after a strange day. Acceptable.",
+    "fix": "None major.",
+    "note": "All three plants land cleanly: Brann's 'you'll know what you're for' (F02) is now actual dialogue at the leaving; mother's hair / 'just time' (F03) is delivered with specific sensory detail (woodsmoke, green soap from pine-ash); black-glass and bell dream (F01) closes the chapter."
+  },
+  "prose_quality": {
+    "score": 7,
+    "weakest_sentence": "\"He could call up the woodsmoke. The pine-ash was thinner than it had been last winter. The hair itself — the way of it — was somewhere under the other two and would not come up.\"",
+    "fix": "The three-step descent is slightly tidy in its rhythm. Compress: 'He could call up the woodsmoke. The pine-ash was thinner this winter. The hair itself was somewhere under both and would not come up.' (Defer to Phase 3.)",
+    "strongest_sentence": "\"He looked at his hand. There was no cut.\"",
+    "note": "Sentence-length CV 0.957 (well varied). Metaphors stay in the blacksmith's domain throughout. v2 cut the 'Hands a man would know' aphorism. v2 added the Coalday sensory anchor: the iron ringing at every doorstep as the procession passed. Specificity holds: 'green soap from pine-ash,' 'the broken pommel of a sword,' 'the colour of unlit coal,' 'a length of corroded chain.'"
+  },
+  "continuity": {
+    "score": 8,
+    "note": "Opening chapter, no previous to flow from. Strong forward tilt — ends on the dream, the warm iron, the morning grey."
+  },
+  "canon_compliance": {
+    "score": 8,
+    "violations": [],
+    "note": "All canon facts honoured. New canon-eligible facts established: the cut on Rowan's right hand healed without scar on first crown contact (confirms 'bond predates the crown' soft rule)."
+  },
+  "lore_integration": {
+    "score": 8,
+    "weakest_moment": "The reeve's tiredness ('three parishes since dawn') reads as character economy more than world-building, even though it implicitly relies on the Coalday-inventory timing. A lighter-touch reader will hear the line and not register that the king has reeves out across the parishes today specifically because today is the day to find ring-shaped iron.",
+    "fix": "Optional: one half-sentence in Brann's interior reaction would land it. Defer.",
+    "note": "Coalday now has a sensory anchor (the iron ringing at every doorstep, the smithy still smelling of last night's fish, the shared coal at the back of the forge). The wayside cairn with the red mourning-banner is a faded-culture detail unique to this world. Hammer-hand salute used. The chapter is not find-and-replaceable into another fantasy world."
+  },
+  "engagement": {
+    "score": 7,
+    "weakest_moment": "The walk to Marrow Field is a short paragraph of summary ('an hour before dark...'). Acceptable as bridge but not page-turning.",
+    "fix": "Optional: one sensory anchor on the walk (e.g., the absence of bird-sound in the second hour) would give the bridge a beat. Defer.",
+    "note": "Surprise lands: the healed cut on Rowan's hand is the chapter's strongest move, and the prose lets the reader feel it before Rowan does. The dig itself is page-turning. The reader has every reason to want Ch 2."
+  },
+  "three_weakest_sentences": [
+    "\"He could call up the woodsmoke. The pine-ash was thinner than it had been last winter.\" (rhythm slightly tidy)",
+    "\"Brann raised the hammer-hand. Rowan raised his back.\" (slightly tidy mirror; could blur into action)",
+    "\"It was still only midday.\" (a touch on-the-nose; the chapter's first scene-end reach)"
+  ],
+  "three_strongest_sentences": [
+    "\"He looked at his hand. There was no cut.\"",
+    "\"He did this sometimes the way other men checked for a coin in a pocket.\"",
+    "\"Three hundred winters, he thought, and the thought was not his — it arrived already finished, in a voice that knew the shape of those winters from the inside, that had counted them by the cold and the red banners and the slow patient memory of stone, and the last of them was buried in a shallow grave because the ground was frozen and the men who dug it had been afraid, and they had not done it well, and one of them had sat afterwards on a cairn-stone an hour east of here and tied a red cloth onto a peg of iron because he had nobody to bury and because something had to be marked, and the road remembered him.\""
+  ],
+  "ai_patterns_detected": [],
+  "raw_judge_score": 7.7,
+  "slop": {
+    "word_count": 2154,
+    "tier1_hits": [],
+    "tier2_hits": [],
+    "tier2_clusters": 0,
+    "tier3_hits": [],
+    "fiction_ai_tells": [],
+    "structural_ai_tics": [],
+    "telling_violations": 0,
+    "em_dash_density": 4.64,
+    "sentence_length_cv": 0.957,
+    "transition_opener_ratio": 0.0,
+    "slop_penalty": 0.0
+  },
+  "overall_score": 7.7,
+  "weakest_dimension": "character_voice and prose_quality (tied at 7)",
+  "top_3_revisions": [
+    "Phase 3 polish: tighten the three-step mother-hair memory descent (a touch tidy in rhythm).",
+    "Phase 3 polish: blur the hammer-hand salute exchange into action rather than two parallel short sentences.",
+    "Phase 3 polish: add a half-line of Rowan dialogue during the dig (e.g., 'Three —' counting the missing crown points, trailing off) to give him one more spoken beat in his own POV chapter."
+  ],
+  "new_canon_entries": [
+    "Rowan's right hand was cut on the broken crown's inner edge during first contact at Marrow Field. The cut closed without scar before he reached the cairn an hour east. Confirms the bond was already active before the formal oath. (ch_01)",
+    "On Coalday, the iron tongs ring at every doorstep when the next house takes the shared coal. (ch_01)"
+  ]
+}

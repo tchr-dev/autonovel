@@ -1,0 +1,27 @@
+{
+  "_comment": "Copy to settings.local.json (gitignored by Claude Code) to apply. This allowlist reduces permission prompts during multi-hour pipeline runs by pre-approving the operations skills perform on novel directories and helper scripts.",
+  "permissions": {
+    "allow": [
+      "Read(./**)",
+      "Write(./novels/**)",
+      "Edit(./novels/**)",
+      "Write(./examples/**)",
+      "Edit(./examples/**)",
+      "Bash(python3 scripts/slop_scan.py:*)",
+      "Bash(python3 scripts/apply_cuts.py:*)",
+      "Bash(python3 scripts/voice_fingerprint.py:*)",
+      "Bash(python3 scripts/build_manuscript.py:*)",
+      "Bash(python3 scripts/parse_review.py:*)",
+      "Bash(python3 scripts/state.py:*)",
+      "Bash(python3 scripts/results_log.py:*)",
+      "Bash(mkdir -p novels/*)",
+      "Bash(cp -r templates/* novels/*)",
+      "Bash(cat novels/*)",
+      "Bash(ls novels/*)"
+    ],
+    "deny": [
+      "Bash(git reset --hard:*)",
+      "Bash(rm -rf novels:*)"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+# Sample seed — edit or replace, then point /autonovel at it.
+# A full worked run from this seed lives in examples/ashen-crown/.
+# Format: free-form prose with the labelled sections below. The seed skill
+# accepts variations; only Title and Seed are strictly required.
+
+Title: The Ashen Crown
+
+Genre: Classic sword-and-dragons fantasy novella
+
+Length Target: 25,000-35,000 words
+
+Seed:
+In the mountain kingdom of Vaelgard, dragons have been extinct for three hundred years, remembered only through rusted banners, old songs, and the blackened ruins of their last war. When a poor sword-apprentice named Rowan pulls a broken crown from a battlefield grave, he awakens the last dragon egg in the world.
+
+The egg belongs to the royal line of dragons once bound to Vaelgard’s kings. Its return should save the kingdom from invasion by the iron armies of the north, but the crown carries a curse: every time Rowan uses its power, he loses a memory of someone he loves.
+
+Rowan must cross haunted passes, bargain with oath-breaking knights, and decide whether to hatch the dragon for a kingdom that would rather chain it than honor it. His closest companion, Mira, a runaway noble trained as an archer, believes the dragon should be freed. The old king believes it must be weaponized. The enemy general believes it must be destroyed before the age of dragons begins again.
+
+Central tension:
+Can Rowan save Vaelgard without becoming another ruler who treats dragons as tools?
+
+World differentiator:
+Dragon magic is not fire alone. Dragons remember the true names of mountains, rivers, storms, and bloodlines. A bonded human can command those names, but the land takes payment in memory.
+
+Core cast:
+- Rowan: young sword-apprentice, brave but insecure, afraid he is only useful when holding a blade.
+- Mira: runaway noble archer, sharp-tongued, loyal to people over crowns.
+- King Aldren: dying ruler of Vaelgard, honorable once, desperate now.
+- Ser Caldus: disgraced knight who survived the last dragon shrine and knows the old oaths.
+- Varkesh: northern general, not evil for cruelty’s sake, convinced dragons will restart an age of tyranny.
+- The dragon: ancient soul in a newborn body, proud, frightened, and unwilling to be owned.
+
+Sensory hook:
+Cold iron, pine smoke, snow on red banners, the smell of old ash in ruined halls, dragon scales like warm black glass.
+
+Ending promise:
+The novella ends with Rowan choosing freedom over ownership, breaking the crown’s command over the dragon, and forcing humans and dragons into a dangerous new alliance rather than a clean victory.

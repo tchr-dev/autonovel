@@ -1,0 +1,93 @@
+{
+  "magic_system": {
+    "score": 9,
+    "gap": "Reserve-10 territory would require a moment of genuine surprise. The system is hard, costed, plot-driving, and now bootstrap-resolved (rule 8) and distance-binding-resolved (rule 7). Three+ societal implications now real (Coalday is plot-driving, vestigial customs anchor backstory, red-on-grey court dress reads as accidental dragon-mourning). Could not improve in a month of editorial work.",
+    "fix": "None I can name. The bootstrap is honest, the costs are escalating, the climax resolves with rules established by Ch 6. To reach 10 it would have to surprise — for instance, a moment in drafting where the magic system's own logic dictates an outcome the planner did not foresee. Cannot be specified at foundation phase.",
+    "note": "Strongest dimension. Iter 0 was 8; bootstrap + distance-binding closed both writer-stoppers."
+  },
+  "world_history": {
+    "score": 7,
+    "gap": "Iter 0 gap UNFIXED: still only one major historical event (the Burning). Aldren-Varkesh 30-winter correspondence is hinted but not historically grounded. The other six kingdoms (3 unnamed) remain wallpaper. This is a deliberate choice this iteration — the iter 1 budget went elsewhere — but it is still the visible weakness.",
+    "fix": "Add a second historical event between the Burning and the present that shaped the current factions: e.g., the *Letter Truce* — the agreement between Aldren's father and Varkesh's predecessor that war would be conducted only by writ for thirty winters, currently expiring. This grounds Aldren's saved letters and explains why Varkesh moves *now*.",
+    "note": "Carry to iter 2 if needed. Not a foundation-blocker."
+  },
+  "geography_and_culture": {
+    "score": 8,
+    "gap": "Coalday is now concrete with plot-driving consequence. Brann's Forge has explicit village rhythm (twelve houses + smithy, charcoalers, ore-runners, baker-as-literate, smithy-hearth-as-tavern). Canon location anchors cover all 8 named locations with sensory detail. Minor remaining gap: the farm village in Ch 8 has no name and no rhythm of its own — would benefit from being given a name and one detail that distinguishes it from Brann's Forge.",
+    "fix": "In outline.md Ch 8: name the farm village (e.g., *Threehearth*), give it one detail (e.g., the village's well is at the wrong end — they walk to the spring, not the centre — because their original well went black-ash in the Burning).",
+    "note": "Iter 0 was 6; +2 from Coalday + village rhythm + location anchors."
+  },
+  "lore_interconnection": {
+    "score": 8,
+    "gap": "Networks tightly. Coalday now connects to Aldren's reeve-search timing; the bootstrap connects to Caldus's particular knowledge; distance-binding connects to Aldren's death; the memory ladder connects to the voice's two-mode structure. The seven-kingdoms framing remains decorative.",
+    "fix": "Drop the seven-kingdoms claim from world.md (the prose only uses three) or wire the unnamed four into a single concrete detail: a refugee in Ch 8's farm village from one of them, named, two-line backstory.",
+    "note": "Same as iter 0 — minor tightening."
+  },
+  "iceberg_depth": {
+    "score": 7,
+    "gap": "Bootstrap resolved. Dragon-feeding resolved. Aldren's death mechanism resolved. What remains: the OTHER shrines — there are now two more eggs at unknown shrines, but world.md says only Cradle Shrine is the founding shrine, and other shrines are 'small stone structures, usually one room'. Are the other-egg shrines structurally different? Larger? Why hasn't anyone found them in 300 winters?",
+    "fix": "One paragraph in world.md: most shrines are *cenotaphs* (memorial-only, no egg); a handful are *cradle-shrines* with active oath-stones, but they were sealed and disguised at the Burning by the surviving veterans, and only oath-keepers know which is which. Caldus knows of one other; the third is genuinely lost. This grounds the dragon's secret and gives the sequel its open road without specifying the road.",
+    "note": "Iter 0 was 6; +1 from bootstrap + feeding."
+  },
+  "character_depth": {
+    "score": 7,
+    "gap": "Wound/want/need/lie chains are still strongest for Rowan, Mira, and Aldren. Caldus now has a *visible-tell* moment in the Ch 5 outline (his rehearsed answer about the road), which converts his lie from inferable to dramatised — but the depth still depends on prose-level execution. Varkesh's cost is now concrete (Tovr, command at risk) — major upgrade. The dragon's depth is still asserted and demonstrated only at hatching and climax; Acts 2 mid-section under-uses it.",
+    "fix": "Add an outline beat in Ch 8 or Ch 9 where the dragon does something *small* and character-revealing — refuses meat from a hand it does not trust, or names a single stone that nobody asked for, or watches Mira draw her bow and asks her one question. One beat. Not a scene.",
+    "note": "Iter 0 was 7; held — added Caldus tell + Varkesh cost, but dragon mid-book remains thin."
+  },
+  "character_distinctiveness": {
+    "score": 8,
+    "gap": "Mira's *right* + sentence-completion tics now make her recognisable from a single line of dialogue. The voice.md exemplar 3 has been updated to demonstrate. Caldus, Aldren, Varkesh, the dragon all distinct. Remaining minor gap: the dragon's old-tongue dialogue mode is *defined* but the book has only one example (voice.md Exemplar 5); the dragon will speak in 5+ chapters, so it would benefit from a second voice-exemplar showing a *different* register of the same mode (e.g., the dragon afraid; the dragon teaching).",
+    "fix": "Add 1-2 more dragon dialogue exemplars to voice.md, showing range within old-tongue mode (afraid / teaching / amused). Carries to iter 2 if needed.",
+    "note": "Iter 0 was 6; +2 from Mira tics + dialogue anti-exemplars."
+  },
+  "character_secrets": {
+    "score": 8,
+    "gap": "Same as iter 0 — all six secrets change the plot if revealed, all physically grounded.",
+    "fix": "None major.",
+    "note": "Held at 8."
+  },
+  "outline_completeness": {
+    "score": 8,
+    "gap": "Ch 11 parley now has explicit try-fail (Tovr's objection nearly breaks the parley; Varkesh has to silence him in front of Rowan). Ch 5 has visible Caldus-tell. Save-the-Cat percentage marks still not formally mapped, but informally: Ch 1 opening, Ch 4 first kneeling = catalyst, Ch 7 hatching = midpoint, Ch 10 Caldus death + journal = dark night, Ch 12 climax. Roughly aligned. Try-fail cycles in chapters other than 11 still relatively clean.",
+    "fix": "Carry to iter 2: micro-failure beats in Ch 8 (the wind-call doesn't quite clear the smoke first try; he has to push harder; that pushes the cost) and Ch 9 (Mira initially does nock-and-aim, holds for two beats, the king reads it as compliance — then she releases the tension).",
+    "note": "Iter 0 was 7; +1 for parley try-fail."
+  },
+  "foreshadowing_balance": {
+    "score": 8,
+    "gap": "17 plants, 17 payoffs. Beggar entry F04 corrected to Caldus's gate-watcher direction. Ledger is internally consistent now.",
+    "fix": "None.",
+    "note": "Held at 8."
+  },
+  "internal_consistency": {
+    "score": 8,
+    "gap": "Iter 0 contradictions resolved: beggar direction reversed (Caldus's eyes, not Mira's messenger); distance-binding mechanic explicitly added to world.md hard rules and logged in canon. The bootstrap also resolves a previously-unflagged consistency hole (how the first bond happened given the chicken-and-egg of oath/bond).",
+    "fix": "None major. The earlier 'Caldus tended 40 winters but Aldren confined him 2 winters ago' is consistent on re-reading and prose can handle it cleanly.",
+    "note": "Iter 0 was 6 (capped by one major contradiction); +2 from fix."
+  },
+  "voice_clarity": {
+    "score": 9,
+    "gap": "5 prose exemplars + 5 prose anti-exemplars + 5 dialogue anti-exemplars + per-character speech rules with concrete tics and trigger rules. Old-tongue mode triggers explicit. Anti-slop forbidden vocabulary list pre-commits the drafting agent. The hybrid voice is mechanic-justified diegetically. Genuinely close to a published-novel-quality voice doc.",
+    "fix": "None I can name short of the dragon-range exemplar noted under character_distinctiveness, which is shared work.",
+    "note": "Iter 0 was 8; +1 from dialogue anti-exemplars + Mira tic integrated into exemplar."
+  },
+  "canon_coverage": {
+    "score": 8,
+    "gap": "Location anchors added for all 8 named locations with sensory detail. Coalday logged. Distance-binding logged. Bootstrap logged. Mira tic logged. Memory ladder explicit. Granular enough to catch contradictions in drafting. Minor: Captain Tovr is named but not logged in canon character facts.",
+    "fix": "Add a one-line entry under Character Facts for Tovr (Iron North, Varkesh's second, speaks once in Norn at parley, ambitious, will likely lead the post-treaty objection at the next Iron North council).",
+    "note": "Iter 0 was 7; +1 from location anchors."
+  },
+  "slop_in_planning_docs": {
+    "found": [],
+    "note": "Tier-1 banned words appear only in voice.md anti-exemplars and the world.md forbidden-vocabulary list. No accidental slop in any planning doc. The added Coalday section, distance-binding clause, and location anchors are all written in plain Anglo-Saxon register consistent with the voice — no decorative latinate drift."
+  },
+  "contradictions_found": [],
+  "overall_score": 7.85,
+  "lore_score": 7.8,
+  "weakest_dimension": "world_history (and character_depth tied at 7)",
+  "top_3_improvements": [
+    "Add a second historical event (e.g., the Letter Truce expiring) to ground Aldren-Varkesh and explain Varkesh's timing — raises world_history to ~8.",
+    "Add a small dragon character-beat in Ch 8 or Ch 9 (one beat, not a scene) to give the dragon mid-book presence — raises character_depth to ~8.",
+    "Name the Ch 8 farm village and give it one distinguishing detail; add a one-line Tovr canon entry; add 1-2 more dragon dialogue exemplars showing range within old-tongue mode — raises geography_and_culture and character_distinctiveness to 9 territory."
+  ]
+}

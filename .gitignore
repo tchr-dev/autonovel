@@ -1,0 +1,30 @@
+# Generated novel runs (user-created; not committed)
+novels/*
+!novels/.gitkeep
+
+# Worked examples ARE committed — keep them out of any blanket ignores
+!examples/
+!examples/**
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+
+# Environment
+.env
+.env.local
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*~
+
+# Logs
+*.log

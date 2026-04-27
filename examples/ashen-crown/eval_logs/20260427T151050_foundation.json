@@ -1,0 +1,97 @@
+{
+  "magic_system": {
+    "score": 8,
+    "gap": "Three societal implications are gestured at (vestigial customs: coin in mouth, no pine on longest night, red banners as mourning) but never extended into present-day consequences. The vestigial customs are decorative rather than plot-driving — no scene depends on someone burning pine, etc.",
+    "fix": "Add at least one custom that GENERATES a scene-level conflict in the outline (e.g., a Hold-on-Iron market scene where Rowan accidentally violates a vestigial dragon-respecting custom and reveals he's marked).",
+    "note": "Costs are excellent — memory-as-payment is plot-driving, the ladder is concrete and specific. The hard rules are testable. The crown-as-focus + bond-as-consent split is genuinely novel and resolves the climax with rules already established. This is the strongest dimension."
+  },
+  "world_history": {
+    "score": 7,
+    "gap": "The Burning of Caer Vael creates excellent present-day tensions, but the history is essentially ONE event 300 winters ago. Aldren's lineage is detailed; the other six kingdoms are name-dropped (only Iron North and Salt Coast even named, four un-named). The 30 winters of Aldren-Varkesh letter-correspondence is hinted but not historically grounded.",
+    "fix": "Add a second historical event — something between the Burning and now — that shaped the current factions. Three winters of Iron North raids? A Vaelgard succession crisis under Aldren's father? The point is to give the present more than one origin.",
+    "note": "The 310th-winter calendar specificity is a strong choice."
+  },
+  "geography_and_culture": {
+    "score": 6,
+    "gap": "Day-to-day culture is sparse. We know Brann's Forge is 'a smithy and twelve houses' — but we don't know what the village does on a market day, what festivals exist, what work-life looks like outside the smithy. The mountain country has weather and food but no living rhythm. This will force the drafting agent to invent in Ch 1 / Ch 2 / Ch 8.",
+    "fix": "Expand the Cultural Details section: a regular village rhythm (when do reeves come, when do traders pass, what's the week's shape), one festival or seasonal observance the book can reference, and a description of what an average evening at Brann's Forge looks like.",
+    "note": "Sensory hooks are good (cold iron, pine smoke, basalt, scales like warm black glass) but they describe MOOD, not LIFE."
+  },
+  "lore_interconnection": {
+    "score": 8,
+    "gap": "Excellent: changing the magic cost would change Rowan's arc, the voice's two-mode structure, the memory ladder, the climax mechanic, and the emotional spine. Changing the consent clause changes Aldren's death mechanism. Changing the broken-crown limits changes which true names Rowan can use chapter-by-chapter. The mechanic genuinely networks. Minor gap: the seven-kingdoms claim isn't connected to anything in the plot.",
+    "fix": "Either drop the seven-kingdoms framing (pretending less depth than there is) or wire one of the un-named kingdoms into a piece of plot detail (a refugee in the farm village, a trade good in Hold-on-Iron market).",
+    "note": "Tightening this is a small change with large readability win."
+  },
+  "iceberg_depth": {
+    "score": 6,
+    "gap": "Author knows the answers for the named threads (Caldus's setup, dragon's two more eggs, Aldren's letters to Varkesh) — those are deliberate withholding. But: who built the original shrines? How did the first Ashen Oath get sworn (since it required a bonded human, but bonding requires the oath)? What does the dragon eat between hatching and Ch 12 in the day-to-day (we see one rabbit and one mention of meat)? The bootstrap problem in the magic system is a writer-stopper.",
+    "fix": "Add one paragraph to world.md addressing the FIRST bond — either a free dragon offered itself (no human-side oath), or it was sworn at a now-lost shrine differently. Resolve the bootstrap. Also: a quick logistics paragraph on how the dragon is fed in Acts 2-3.",
+    "note": "Iceberg depth fails when an author hand-waves a question a writer would need to answer to draft."
+  },
+  "character_depth": {
+    "score": 7,
+    "gap": "Wound/want/need/lie chains are present and causal for Rowan, Mira, and Aldren. Caldus's chain is implied (wound: the Burning; want: the dragon-age over; need: forgiveness for choosing Rowan; lie: that the road told him) but the LIE could be sharper. Varkesh's wound (great-grandmother's clan burned) is named but not internalised — what does it COST him to negotiate with Rowan? The dragon's depth is asserted, not demonstrated through specific moments before Ch 12.",
+    "fix": "Add a specific Caldus moment in Ch 5 or Ch 6 where his lie is visible to the reader (not just to Rowan-on-rereading). Add a Varkesh moment in Ch 11 where the parley costs him with his own men — show the cost.",
+    "note": "Mira and Rowan are the most fully realised."
+  },
+  "character_distinctiveness": {
+    "score": 6,
+    "gap": "Rowan and Mira both default to clipped, plain, short sentences. The voice doc tells us Rowan trails off and Mira is sharp, but the EXEMPLAR exchange ('He said a lot of things.' / 'He said most of them twice.') could be either of them. They risk merging on the page. Caldus, Aldren, Varkesh, and the dragon are distinct (clipped-religious, formal-failing, exact-northern, old-tongue).",
+    "fix": "Add a 'Mira speech tic' that Rowan does NOT have: e.g., she completes other people's sentences (a noble-school habit she has not unlearned); or she counts things aloud when nervous; or she says 'right' as a one-word agreement and never 'yes'. Something concrete that makes her recognisable in two lines without a tag.",
+    "note": "Anti-slop check: voice exemplars contain no Tier-1 slop. Dialogue formulas (not-X-but-Y, etc.) not present in exemplars. Good."
+  },
+  "character_secrets": {
+    "score": 8,
+    "gap": "All six secrets change the plot if revealed: Caldus's setup of Rowan, Aldren's dying timeline, Mira's father funding her, dragon's two more eggs, Rowan's pre-existing dragon-dreams, Varkesh's grandmother's name. All are physically grounded (journal, illness, silver caches, eggs in shrines, dreams, name). Minor gap: dragon's secret (two more eggs) is structurally a 'sequel hook' more than a payoff — it doesn't recontextualise this book.",
+    "fix": "Optional — let the dragon's secret have a smaller, earlier payoff: it can SENSE the other eggs, and one chapter has Rowan feel the dragon turn its head north and not understand why.",
+    "note": "Secrets are otherwise excellent."
+  },
+  "outline_completeness": {
+    "score": 7,
+    "gap": "12 chapters, beats numbered, POV consistent, emotional arcs given, plants/harvests tracked. Strong. Gaps: no explicit try-fail cycles per chapter — most chapters resolve cleanly without internal failure. Save-the-Cat percentage marks not mapped (midpoint at Ch 6-7, dark night at Ch 10, climax Ch 12 — okay roughly but unstated). Ch 11's parley has three rounds but no real risk of breakdown — Varkesh accepts the third offer too smoothly.",
+    "fix": "Add a try-fail in Ch 11: round 3 nearly breaks down, the dragon almost leaves before Varkesh accepts. Make Varkesh's acceptance harder-won.",
+    "note": "Word counts realistic for a 30k novella."
+  },
+  "foreshadowing_balance": {
+    "score": 8,
+    "gap": "17-item ledger with explicit plant/payoff chapters. Every plant has a payoff. No orphans. Minor gap: F18 was dropped between drafts (originally 18, settled at 17); the ledger reads clean now.",
+    "fix": "None major. Could add a 'thread' grouping (memory-loss thread, oath-mechanic thread, Caldus-setup thread) to make the ledger inspectable.",
+    "note": "This is a strong dimension."
+  },
+  "internal_consistency": {
+    "score": 6,
+    "gap": "ONE concrete contradiction: outline Ch 10 harvests claim 'the beggar at the gate (Ch 3) → was the messenger who carried Mira's word to Caldus a week ago, surfacing here as detail.' But in Ch 3, Mira meets Rowan for the first time AT the gate; she has been watching the gate for a week for someone like him; she has no plan to send word to Caldus yet. The chronology breaks. Either the beggar carries Caldus's word to Mira (reverse direction), or the harvest is wrong. Capping at 6 per the skill rule (one major contradiction caps at 6).",
+    "fix": "Reverse the direction: the beggar was Caldus's eyes at the gate, watching for someone matching the egg's dream. He recognises Rowan and sends word back to Caldus. This is also more thematically interesting — Caldus's surveillance net.",
+    "note": "Other minor: Aldren 'tried to bind the dragon at distance' in Ch 11 is a mechanic the world.md doesn't establish (world.md says bonding requires hands on oath-stone, present together). Either world.md needs a 'distance-binding via corrupted ritual' note (which justifies Aldren's death) or the death mechanism needs to change. Minor but flag-worthy."
+  },
+  "voice_clarity": {
+    "score": 8,
+    "gap": "Five exemplars and five anti-exemplars, all specific to the novel. Rules for old-tongue mode trigger explicit (crown active, dragon speaking, post-bond dreaming). Per-character speech rules given. Minor gap: the anti-exemplars are anti-PROSE, not anti-DIALOGUE. There's no 'this is what Mira would NEVER say' counterpoint to her speech rules.",
+    "fix": "Add 1-2 dialogue anti-exemplars showing wrong-mouth lines (e.g., 'Rowan said: \"I think we should consider the implications.\"' marked as anti).",
+    "note": "Strong on the prose front. Hybrid-voice mechanic is well-justified diegetically (bonded humans dream in old-tongue)."
+  },
+  "canon_coverage": {
+    "score": 7,
+    "gap": "Granular on character ages, dates, magic rules, geography. Memory ladder explicit. Less granular on physical descriptors (no canon entry for, say, what Hold-on-Iron's hall ACTUALLY looks like — its dimensions, the throne, the door — so Ch 4 will have to invent freely). The 'Established In-Story' section is properly empty at foundation phase.",
+    "fix": "Add a Locations sub-section under Geography in canon.md with a few sensory anchors per location (Hold-on-Iron hall: timber-and-stone, three columns, no banners; Cradle Shrine: one room, basalt, oath-stone in the centre with a bowl-depression worn smooth).",
+    "note": "Sourcing convention works (world.md / characters.md / outline.md tags)."
+  },
+  "slop_in_planning_docs": {
+    "found": [],
+    "note": "Tier-1 banned words appear ONLY in the voice.md anti-exemplars where they are diagnostic, and in the world.md Internal Consistency rule which references them as the threat to avoid. No accidental slop in world.md, characters.md, outline.md, canon.md, or MYSTERY.md prose. The 'forbidden vocabulary' list in voice.md (epic, legendary, fabled, etc.) is a positive — it pre-commits the drafting agent against the genre's gravity wells."
+  },
+  "contradictions_found": [
+    "Outline Ch 10 harvests: 'the beggar at the gate (Ch 3) was the messenger who carried Mira's word to Caldus a week ago' — chronology breaks; Mira and Rowan have not met yet in Ch 3. Fix: reverse the direction; beggar is Caldus's eyes.",
+    "Aldren's distance-binding death mechanism in Ch 11 is not established in world.md hard rules — world.md requires hands-on-oath-stone for bonding. Either world.md needs a clause for corrupted ritual at distance (Aldren has a fragment of oath-stone in his keep, kept secret), or the death mechanism needs to change to bond-recoil from the dragon's repeated refusal alone.",
+    "Caldus 'tended Cradle Shrine for 40 winters' (characters.md) but Aldren 'confined Caldus to the shrine 2 winters ago' (Aldren entry) — these are consistent (he was already there; the confinement was a no-leave order) but the prose should be careful not to say Caldus is 'imprisoned' in a way that suggests recent placement."
+  ],
+  "overall_score": 7.1,
+  "lore_score": 7.0,
+  "weakest_dimension": "geography_and_culture (tied at 6 with iceberg_depth, character_distinctiveness, internal_consistency)",
+  "top_3_improvements": [
+    "Fix the beggar/distance-bond contradictions and add a world.md clause covering Aldren's distance-binding death mechanism (raises internal_consistency from 6 to ~8).",
+    "Expand geography_and_culture: add a village-rhythm paragraph for Brann's Forge, a sensory anchor for Hold-on-Iron's hall and Cradle Shrine in canon.md, and one festival/seasonal observance with plot consequence (raises geography_and_culture to ~8 and helps canon_coverage).",
+    "Sharpen character_distinctiveness: give Mira a concrete speech tic that Rowan does not have, so the two clipped voices remain separable on the page (raises character_distinctiveness to ~7-8)."
+  ]
+}

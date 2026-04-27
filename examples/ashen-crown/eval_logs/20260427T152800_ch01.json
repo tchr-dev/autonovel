@@ -1,0 +1,95 @@
+{
+  "voice_adherence": {
+    "score": 5,
+    "weakest_moment": "The chapter ends with an omniscient cut to Brann at the smithy hearth two days south, narrating Brann's regrets and a flash-forward (\"He could still tell him later. The boy would come back in three days. He was wrong about that.\"). voice.md is explicit: 'Single POV: Rowan throughout. ... No omniscient cuts. No interludes.' This is a clean violation, capping voice score.",
+    "fix": "Cut the entire final passage starting at 'In the village, two days' walk south, his master Brann was sitting at the smithy hearth...' Save the chapter ending at 'He woke with the bell still in his ears, and the iron still warm, and the morning grey and far off and not yet anything.' That's the chapter's natural end-line and stays in Rowan's POV.",
+    "note": "Otherwise voice is strong. Anglo-Saxon vocabulary throughout. One old-tongue paragraph triggered correctly (crown contact). Sentence-length CV 0.927. Tone matches stoic-grief fingerprint. The voice violation is structural at the end, not pervasive."
+  },
+  "beat_coverage": {
+    "score": 6,
+    "weakest_moment": "Ch 2's sword-giving beat has been imported into Ch 1 ('You'll take the sword,' Brann said. 'You'll take it.'). Per outline.md, Ch 2 beat 5: 'Brann gives him a sword — the first he has been allowed to carry on the road, not just hammer-make. Brann's farewell is short.' By giving the sword in Ch 1, the chapter spends a Ch 2 plant early and constrains the next chapter's options.",
+    "fix": "Cut the sword-giving from Ch 1. Brann sends Rowan to Marrow Field with the barrow, the second hammer, and the long knife only. The sword stays on the peg above the second anvil. Ch 2 can then deliver the sword as outlined when Rowan leaves the village for Hold-on-Iron.",
+    "note": "All other beats are hit and dramatised, not summarised. Coalday morning ✓, the quench + Brann's praise ✓, mother-hair memory failure ✓, reeve with specific ring-shaped questions ✓, the journey to Marrow Field ✓, the dig + crown + old-tongue paragraph ✓, the choice not to put it in the barrow ✓, the dream ✓."
+  },
+  "character_voice": {
+    "score": 7,
+    "weakest_moment": "Rowan only speaks three words on the page ('Aye.' 'Aye.' 'Master —'). For a POV chapter at 2,351 words this is sparse even given his 'plain, often a half-question, trails off' profile. The reader gets little sense of his speech-personality.",
+    "fix": "Add one more brief Rowan line during the reeve scene — a half-question that lets him fail to ask what he wants to ask. Something like '...the king is —?' that Brann answers over.",
+    "note": "Brann (terse smith) and the reeve (tired official) are distinct from each other in three lines apiece. Brann: 'Good.' '...the king is buying scrap iron from the old fields. Twice the going rate by the weight.' These read as different mouths. No dialogue formula slop ('not just X, but Y' / 'there's a difference') present."
+  },
+  "plants_seeded": {
+    "score": 6,
+    "weakest_moment": "Brann's 'you'll know what you're for when something asks for you, not when something gives you a job' (F02, payoff Ch 11/12) is referenced in the omniscient-slip coda as something Brann *wished* he had said, rather than something he actually said. The plant is recognisable but undelivered — Ch 11 cannot harvest a quote that was never spoken on the page.",
+    "fix": "Move the line into Brann's actual dialogue earlier in the chapter. After 'You'll take the barrow and the second hammer and the long knife,' have Brann pause, look at the road, and say it plainly to Rowan. Then Rowan can carry it. (Combined with the omniscient-cut fix, this becomes one revision motion.)",
+    "note": "The other two plants land cleanly. Mother's hair ('Just time, he thought') is delivered with specific sensory detail (green soap from pine-ash) so the Ch 7 payoff has something concrete to take. The black-glass-and-bell dream lands at the chapter's end in three sentences, neither over- nor under-played."
+  },
+  "prose_quality": {
+    "score": 7,
+    "weakest_sentence": "\"Hands a man would know.\"",
+    "fix": "This is the chapter's most precious moment — three words doing the work of an aphorism. Cut it. The two preceding sentences ('The burn-scar on the meat of his right thumb. The hammer-bent knuckle on the left thumb where, at twelve, he had learned the wrong grip.') already do the showing.",
+    "strongest_sentence": "\"He looked at his hand. There was no cut.\"",
+    "note": "Sentence-length CV 0.927 (well above the 0.3 threshold for varied). Metaphors from blacksmith domain (the heat going from yellow to red to 'that particular black'; the iron that 'looked like iron and weighed too much for its size'; the surface 'the colour of unlit coal'). One section break (smithy → road), within budget. Specificity is consistent — 'green soap from pine-ash,' 'the meat of his right thumb,' 'the broken pommel of a sword,' 'a length of corroded chain.'"
+  },
+  "continuity": {
+    "score": 8,
+    "note": "First chapter, no previous to flow from. Opens in medias res (the quench), establishes Rowan-Brann relationship in three lines, sends the protagonist on the road by midpoint, ends on a forward-tilting dream. Standard but well-executed."
+  },
+  "canon_compliance": {
+    "score": 8,
+    "violations": [],
+    "note": "All canon facts honoured: Coalday is the morning before, twelve houses + smithy, smiths salute by hammer-hand (and they do, twice), the reeve asks for ring-shaped iron and pays silver on the road, Marrow Field is 2 days off-road from Brann's Forge, the wayside cairn has the red mourning-banner, the grave is 12 paces east, the crown is broken with three points missing and one tooth-shaped, Rowan's hands have the burn-scars and bent left thumb, the crown is warm against his ribs, old-tongue mode triggers only on crown contact (it does, once). One new canon-eligible fact established: Rowan's torn hand healed without scar on first crown contact, suggesting the bond is already active before the formal oath. This belongs in canon as confirmation of the 'bond predates the crown' soft rule."
+  },
+  "lore_integration": {
+    "score": 8,
+    "weakest_moment": "Coalday is referenced via the shared coal still ringed in slag and Rowan's quench being 'the first proper quench of the new working year' — but the *procession* of the night before is told ('Last night the village had walked it from house to house in the iron tongs') rather than shown in any sensory detail. A single concrete detail (the smell of yesterday's salted fish lingering, or the sound of the tongs ringing as the next house took the coal) would land it harder.",
+    "fix": "Add one sensory anchor for last night's procession. Suggested: in the opening paragraphs, between the quench and Brann's first 'Good,' a half-sentence — 'The smithy still smelled of last night's fish' — and let the reader infer the rest from world.md.",
+    "note": "Otherwise lore is doing real work. The reeve's appearance is timed to Coalday inventory (the political layer doing a beat of work). The wayside cairn with the red mourning-banner is a faded-culture detail that would appear in no other novel. Hammer-hand salute is used. The smithy hearth-as-gathering-place is mentioned. The chapter is not find-and-replaceable into another fantasy world."
+  },
+  "engagement": {
+    "score": 7,
+    "weakest_moment": "The Brann coda dilutes the chapter's closing pressure. The strongest possible ending — Rowan waking with the bell in his ears, the iron warm, morning grey — is followed by a flat, narratorial paragraph that tells the reader Brann was wrong, telegraphing the future and undoing the ambiguity.",
+    "fix": "End the chapter at 'and the morning grey and far off and not yet anything.' That sentence is doing all the work that the coda then explicates. (Same edit as the voice fix.)",
+    "note": "Surprise present: the healed cut on Rowan's hand. The reader feels the change before Rowan does. The dig is page-turning. The reader has every reason to want Ch 2."
+  },
+  "three_weakest_sentences": [
+    "\"Hands a man would know.\" (precious aphorism)",
+    "\"He could still tell him later. The boy would come back in three days. He was wrong about that.\" (omniscient slip + heavy dramatic irony)",
+    "\"He could call up the woodsmoke. The pine-ash was thinner than it had been last winter.\" (the three-step descent into the missing memory is a touch tidy in its rhythm)"
+  ],
+  "three_strongest_sentences": [
+    "\"He looked at his hand. There was no cut.\"",
+    "\"He did this sometimes the way other men checked for a coin in a pocket.\"",
+    "\"Three hundred winters, he thought, and the thought was not his — it arrived already finished, in a voice that knew the shape of those winters from the inside, that had counted them by the cold and the red banners and the slow patient memory of stone, and the last of them was buried in a shallow grave because the ground was frozen and the men who dug it had been afraid, and they had not done it well, and one of them had sat afterwards on a cairn-stone an hour east of here and tied a red cloth onto a peg of iron because he had nobody to bury and because something had to be marked, and the road remembered him.\""
+  ],
+  "ai_patterns_detected": [
+    "Omniscient slip at chapter end (Brann's POV interlude) — direct violation of voice.md POV rule.",
+    "One slightly aphoristic three-word sentence ('Hands a man would know.') reaching for weight.",
+    "The hammer-hand salute exchange is correctly used but described twice in the same line ('Brann raised the hammer-hand. Rowan raised his back.') in a way that is slightly tidy."
+  ],
+  "raw_judge_score": 6.9,
+  "slop": {
+    "word_count": 2351,
+    "tier1_hits": [],
+    "tier2_hits": [],
+    "tier2_clusters": 0,
+    "tier3_hits": [],
+    "fiction_ai_tells": [],
+    "structural_ai_tics": [],
+    "telling_violations": 0,
+    "em_dash_density": 4.25,
+    "sentence_length_cv": 0.927,
+    "transition_opener_ratio": 0.0,
+    "slop_penalty": 0.0
+  },
+  "overall_score": 6.9,
+  "weakest_dimension": "voice_adherence (capped at 5 by the omniscient slip at chapter end)",
+  "top_3_revisions": [
+    "Cut the entire Brann-POV coda at the chapter end. Save the chapter at 'and the morning grey and far off and not yet anything.' This single edit fixes both voice_adherence (5→7) and engagement (7→8) and turns Brann's wished-but-unsaid line into actually-said dialogue earlier in the chapter (raising plants_seeded 6→7).",
+    "Cut the sword-giving from Ch 1. Brann sends Rowan with the barrow, the second hammer, and the long knife only. The sword stays on the peg for Ch 2 to deliver as outlined. Restores beat_coverage 6→8.",
+    "Cut the 'Hands a man would know' aphorism. The two preceding sentences already show what those hands are. (Minor.)"
+  ],
+  "new_canon_entries": [
+    "Rowan's right hand was cut on the broken crown's inner edge during first contact at Marrow Field. The cut closed without scar before he reached the cairn an hour east. The bond was already active. (ch_01)",
+    "The shared Coalday coal at Brann's Forge went out the night Rowan slept at Marrow Field. Nobody in the parish lit it again that winter. (ch_01 — note: this fact comes from the omniscient coda; if the coda is cut in revision, the fact moves to a Ch 2 reference.)"
+  ]
+}
