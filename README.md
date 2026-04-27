@@ -94,7 +94,7 @@ the worked example was run through two public detectors:
 | Detector | Sample | Result |
 |---|---|---|
 | Yandex Neurodetector ([link](https://ya.ru/ai/check)) | 2,154 words / 11,133 chars / 10 segments | **2.86%** AI-generated probability |
-| GPTZero | _TBD — fill in_ | _TBD_ |
+| GPTZero (Model 4.4b) | 2,154 words / first 10,000 chars scanned | **AI 0% · Mixed 0% · Human 100%** — "highly confident this text is entirely human" |
 
 The framework references in [`framework/ANTI-SLOP.md`](framework/ANTI-SLOP.md)
 and [`framework/ANTI-PATTERNS.md`](framework/ANTI-PATTERNS.md), combined
