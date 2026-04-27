@@ -211,6 +211,20 @@ Skills assume an Opus-class model is available for Phase 3b review and a
 Sonnet-class model for drafting/evaluation. On a Haiku-only plan expect
 degraded prose and weaker review signal.
 
+Subagent model selection is **pinned in agent frontmatter** rather than
+inherited from the orchestrator session, so the right model runs on each
+persona regardless of which model you launched `/autonovel` from:
+
+| Agent | Pinned model | Rationale |
+| --- | --- | --- |
+| `literary-critic`, `professor-of-fiction` | `opus` | Full-manuscript read; long-form criticism and severity-tagged punch list. The professor's `severity` tags drive the Phase 3b stopping condition, so review depth has systemic impact. |
+| `panel-editor`, `panel-writer`, `panel-genre-reader`, `panel-first-reader` | `sonnet` | Read an arc summary (not the full manuscript) and emit structured JSON. Sonnet handles this well without burning Opus budget. |
+
+For very long manuscripts (≳120k words) where the standard 200k Opus
+window crowds, switch the two Opus agents to `claude-opus-4-7[1m]`. This
+is opt-in per run — the default stays at standard Opus to avoid paying
+1M-context rates on the heaviest phase of every pipeline.
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
